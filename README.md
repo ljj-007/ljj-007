@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I'm currently pursuing a Dr. Degree for Computer Science and Technology. 
+- 🌱 My study interests lie in lightweight fine-tuning and deployment for large models (such as LLMs and high-dimension KGE models).
+- 
+
 <!--
 **ljj-007/ljj-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
