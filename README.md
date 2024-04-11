@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Main works 😄
+### Main open works 😄
 - [AAAI 2024] Towards Continual Knowledge Graph Embedding via Incremental Distillation. (https://github.com/seukgcode/IncDE)
 - [AAAI 2023] IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings. (https://github.com/seukgcode/IterDE)
 
-### Contributed works 😄
+### Contributed open works 😃
 - [AAAI 2024] OntoFact: Unveiling Fantastic Fact-Skeleton of LLMs via Ontology-Driven Reinforcement Learning. (https://github.com/seukgcode/OntoFact)
 
 
