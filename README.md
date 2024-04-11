@@ -19,8 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My Recent works 😄
-- https://github.com/seukgcode/IncDE
-- https://github.com/seukgcode/IterDE
+### My recent main works 😄
+- [AAAI 2024][Oral] Towards Continual Knowledge Graph Embedding via Incremental Distillation. (https://github.com/seukgcode/IncDE)
+- [AAAI 2023] IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings. (https://github.com/seukgcode/IterDE)
 
+### My contributed works 😄
+- [AAAI 2024][Oral] OntoFact: Unveiling Fantastic Fact-Skeleton of LLMs via Ontology-Driven Reinforcement Learning. (https://github.com/seukgcode/OntoFact)
+
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljj-007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
