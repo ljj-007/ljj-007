@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Recent works 😄
+### My Recent works 😄
 - https://github.com/seukgcode/IncDE
 - https://github.com/seukgcode/IterDE
 
