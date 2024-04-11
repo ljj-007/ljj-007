@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently pursuing a Doctoral degree in Computer Science and Technology. 
+- 🔭 I'm currently pursuing my PhD in Computer Science and Technology at Southeast University. 
 - 🌱 My study interests lie in lightweight fine-tuning and deployment for large models (such as LLMs and high-dimension KGE models).
 
 
