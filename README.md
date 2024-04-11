@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently pursuing my PhD in Computer Science and Technology at Southeast University. 
-- 🌱 My study interests lie in lightweight fine-tuning and deployment for large models (such as LLMs and high-dimension KGE models).
+- 🌱 My study interests lie in **lightweight training and deployment** for large models (such as LLMs and high-dimension KGE models).
 - 👯 I enjoy doing interesting work with interesting friends! 
 
 
