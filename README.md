@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently pursuing my PhD in Computer Science and Technology at Southeast University. 
-- 🌱 My study interests lie in **lightweight training and deployment** in **LLMs** and **knowledge graphs**.
+- 🌱 My study interests lie in **lightweight training and deployment** in **large language models (LLMs)** and **knowledge graphs (KGs)**.
 - ❤️ Love Programming and Math!
 - 👯 Enjoy doing interesting work with interesting friends! 
 
