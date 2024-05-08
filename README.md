@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Main open works 😄
+### My main works 😄
+- [IJCAI 2024] Fast and Continual Knowledge Graph Embedding via Incremental LoRA. (https://github.com/seukgcode/FastKGE)
 - [AAAI 2024] Towards Continual Knowledge Graph Embedding via Incremental Distillation. (https://github.com/seukgcode/IncDE)
 - [AAAI 2023] IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings. (https://github.com/seukgcode/IterDE)
-<!--
-### Contributed open works 😃
+
+### My contributed works 😄
+- [IJCAI 2024] Incorporating Schema-Aware Description into Document-Level Event Extraction. (https://github.com/TheoryRhapsody/SEELE)
 - [AAAI 2024] OntoFact: Unveiling Fantastic Fact-Skeleton of LLMs via Ontology-Driven Reinforcement Learning. (https://github.com/seukgcode/OntoFact)
--->
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljj-007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
