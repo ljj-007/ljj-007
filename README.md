@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ### My main works 😄
-- [IJCAI 2024] Fast and Continual Knowledge Graph Embedding via Incremental LoRA. (https://github.com/seukgcode/FastKGE)
+- [IJCAI 2024] Fast and Continual Knowledge Graph Embedding via Incremental LoRA. [code](https://github.com/seukgcode/FastKGE)
 - [AAAI 2024] Towards Continual Knowledge Graph Embedding via Incremental Distillation. (https://github.com/seukgcode/IncDE)
 - [AAAI 2023] IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings. (https://github.com/seukgcode/IterDE)
 
