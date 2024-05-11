@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 -->
 
 ### My main works 😄
-- [IJCAI 2024] ##Fast and Continual Knowledge Graph Embedding via Incremental LoRA##. [[code](https://github.com/seukgcode/FastKGE)]
-- [AAAI 2024] Towards Continual Knowledge Graph Embedding via Incremental Distillation. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28722)] [[code](https://github.com/seukgcode/IncDE)]
-- [AAAI 2023] IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25570)] [[code](https://github.com/seukgcode/IterDE)]
+- [IJCAI 2024] *Fast and Continual Knowledge Graph Embedding via Incremental LoRA.* [[code](https://github.com/seukgcode/FastKGE)]
+- [AAAI 2024] *Towards Continual Knowledge Graph Embedding via Incremental Distillation.* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28722)] [[code](https://github.com/seukgcode/IncDE)]
+- [AAAI 2023] *IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings.* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25570)] [[code](https://github.com/seukgcode/IterDE)]
 
 ### My contributed works 😄
-- [IJCAI 2024] Incorporating Schema-Aware Description into Document-Level Event Extraction. [[code](https://github.com/TheoryRhapsody/SEELE)]
-- [AAAI 2024] OntoFact: Unveiling Fantastic Fact-Skeleton of LLMs via Ontology-Driven Reinforcement Learning. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29859)] [[code](https://github.com/seukgcode/OntoFact)]
+- [IJCAI 2024] *Incorporating Schema-Aware Description into Document-Level Event Extraction.* [[code](https://github.com/TheoryRhapsody/SEELE)]
+- [AAAI 2024] *OntoFact: Unveiling Fantastic Fact-Skeleton of LLMs via Ontology-Driven Reinforcement Learning.* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29859)] [[code](https://github.com/seukgcode/OntoFact)]
 
 
 <!--
