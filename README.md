@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently pursuing my PhD in Computer Science and Technology at Southeast University. 
-- 🌱 My study interests lie in **model compression** and **lightweight training** in **large language models (LLMs)** and **knowledge graphs (KGs)**.
+- 🌱 My study interests lie in **model compression and speedup** in **large AI models**.
 - ❤️ Love programming and new technologies!
 - 👯 Enjoy doing interesting work with interesting friends! 
 
