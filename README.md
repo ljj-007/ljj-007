@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently pursuing my PhD in Computer Science and Technology at Southeast University. 
-- 🌱 My study interests lie in **model compression and speedup** in **large AI models**.
+- 🌱 My study interests lie in **Model Compression and Lightweight Training** in **large AI models**.
 - ❤️ Love programming and new technologies!
 - 👯 Enjoy doing interesting work with interesting friends! 
 
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!--
 ### My main works 😄
 - [IJCAI 2024] **Fast and Continual Knowledge Graph Embedding via Incremental LoRA.** [[paper](https://arxiv.org/pdf/2407.05705)] [[code](https://github.com/seukgcode/FastKGE)]
 - [AAAI 2024, Oral] **Towards Continual Knowledge Graph Embedding via Incremental Distillation.** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28722)] [[code](https://github.com/seukgcode/IncDE)]
@@ -28,6 +30,7 @@ Here are some ideas to get you started:
 ### My contributed works 😄
 - [IJCAI 2024] **Incorporating Schema-Aware Description into Document-Level Event Extraction.** [[code](https://github.com/TheoryRhapsody/SEELE)]
 - [AAAI 2024] **OntoFact: Unveiling Fantastic Fact-Skeleton of LLMs via Ontology-Driven Reinforcement Learning.** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29859)] [[code](https://github.com/seukgcode/OntoFact)]
+-->
 
 
 <!--
