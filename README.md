@@ -57,16 +57,21 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
+<!--
 ## 📊 GitHub 统计 | Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ljj-007&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljj-007&layout=compact&langs_count=8&theme=radical"/>
 </div>
+-->
 
 
+
+<!--
 ## 📈 贡献时间线 | Contribution Timeline
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ljj-007&theme=dracula)
+-->
 
 ---
 
