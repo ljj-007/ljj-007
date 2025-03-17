@@ -27,7 +27,7 @@
 > "less is more"
 
 - 🔭 I'm currently pursuing my PhD in Computer Science and Technology at Southeast University. 
-- 🌱 My study interests lie in **Knowledge Distillation** in **large language models (LLMs)**.
+- 🌱 My study interests lie in **Knowledge Distillation** in **large language models (LLMs)** and **Knowledge Graphs (KGs)**.
 - ❤️ Love programming and new technologies!
 - 👯 Enjoy doing interesting work with interesting friends! 
 
